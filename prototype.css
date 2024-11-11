@@ -1,0 +1,53 @@
+.div1{
+    height: 60vh;
+    border: 2px solid red;
+    max-width: 1400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div2{
+    height: 40vh;
+    border: 2px solid blue;
+    width: 600px;
+    display: flex;
+    align-items: end;
+}
+.div3{
+    height: 40vh;
+    border: 2px solid green;
+    width: 600px;
+    display: flex;
+    align-items: start;
+    justify-content: stretch;
+}
+.div2-1{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(204, 0, 255);
+}
+.div2-2{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(0, 4, 255);
+}
+.div2-3{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(255, 187, 0);
+}
+.div3-1{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(255, 30, 0);
+}
+.div3-2{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(0, 255, 98);
+}
+.div3-3{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(9, 255, 0);
+}
